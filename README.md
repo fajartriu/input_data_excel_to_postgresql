@@ -7,4 +7,4 @@ step by step:
 3. export table datamart (invoice) to csv, that will be use to create dashboard in tableau
 4. create dashboard using tableau, following the link for tableau i have been created https://public.tableau.com/views/DrugSalesAnalysis2022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link or you can see the picture at the file dashboard drug sales 2022.png
 
-thank you, hope you understand.
+thank you
